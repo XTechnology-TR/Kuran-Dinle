@@ -12,7 +12,7 @@
 ### Teşekkür
 
 Bu uygulama https://github.com/YunsGeek tarafından üretilmiş, 
-tarafımızca Türkçeleştirme ve bazı görsel ve işlevsel geliştirmeler yapılarak kullanıma sunulmuştur.
+tarafımızca Türkçeleştirme ve bazı görsel ve işlevsel geliştirme süreci aktif olarak devam etmektedir.
 
 Her hangi bir destek,fikir,öneri ve uyarılarınızda geri dönüşler memnuniyet ile karşılanmaktadır.
 
